@@ -1,0 +1,8 @@
+{
+  "name": "abouter",
+  "version": "1.0.0",
+  "description": "cute persona bio generator for your themed projects",
+  "main": "index.js",
+  "author": "Kamran Payne",
+  "license": "MIT"
+}
